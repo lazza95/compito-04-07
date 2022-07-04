@@ -1,0 +1,21 @@
+input {
+    width:50%;
+    display:block;
+    padding: .3rem;
+    margin: .3rem;
+}
+
+input:nth-child(3) {
+    padding: .4rem 1rem;
+    margin: 4.rem;
+    background: #f5f5f5;
+    border: 2px solid black;
+}
+
+#utenti{
+    margin-top: 1rem;
+}
+
+#utentu th{
+width: 33.33%
+}
